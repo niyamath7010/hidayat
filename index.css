@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.img_logo{
+    padding-left: 50px;
+}
+.nav_bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.nav_text{
+    color: rgb(100, 92, 92);
+    text-decoration: none;
+}
+.carousel-inner{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    justify-content: space-between;
+   
+}
+.chairman{
+    border: 1px solid rgb(140, 140, 155);
+    padding-left: 10px;
+    
+}
+h5{
+    color: lightskyblue;
+    text-align: center;
+}
+.footer{
+    background-color: rgb(48, 48, 68);
+    height: 60px;
+}
+
+.footer_text{
+    padding-top: 15px;
+    color: blanchedalmond;
+}
