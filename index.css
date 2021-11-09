@@ -29,9 +29,10 @@
     justify-content: space-between;
    
 }
-.chairman{
-    border: 1px solid rgb(140, 140, 155);
-    padding-left: 10px;
+.chairman {
+    border: 1px solid rgb(70, 70, 129);
+    /* padding-left: 10px; */
+    padding: 20px;
     
 }
 h5{
@@ -47,3 +48,49 @@ h5{
     padding-top: 15px;
     color: blanchedalmond;
 }
+.fa-address-book .fa-eye.fa-eye-dropper{
+    padding-left: 250px;
+}
+
+p{
+    font-weight: 600;
+}
+.newcard{
+    border: 1px solid rgb(70, 70, 129);
+    /* padding: 20px; */
+}
+.newcard{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+.PRINCIPAL {
+    max-width: 40%;
+    border:1px solid cadetblue;
+    padding: 20px;
+    height: 300px;
+}
+.campus{
+    max-width: 30%;
+    border:1px solid cadetblue;
+    padding-left: 20px;
+    height: 200px;
+}
+
+.Links{
+    width: 400px;
+    border:1px solid cadetblue;
+    /* padding-left: 20px; */
+    height: 350px;
+}
+
+.clg_heading{
+    background-color: cadetblue;
+}
+
+.nav_text2{
+    font-weight: 600;
+    text-decoration: none;
+    color: darkblue;
+}
+
